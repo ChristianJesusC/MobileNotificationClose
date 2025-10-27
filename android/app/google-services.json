@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633927024683",
+    "project_id": "app-df480",
+    "storage_bucket": "app-df480.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633927024683:android:4105e0add5f638a3d1aa6e",
+        "android_client_info": {
+          "package_name": "com.example.notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAinL_FTc3V8Onp9wQmE7HXppIXo6UfsT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
